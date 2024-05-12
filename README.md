@@ -55,4 +55,14 @@ Start the Client
 ```
 
 
+### environment configurations
+
+```bash
+  //create .env file in root directory
+  PORT = ...
+  DB_URL = ...
+  JWT_SECRET = ...
+```
+
+
   
